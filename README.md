@@ -1,4 +1,4 @@
-# Analysing-the-effectiveness-of-tennis-tournament-seeding-by-ellis2013nz
+# Analysing-the-effectiveness-of-tennis-tournament-seeding
 
 The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
 You need to view the file in "Read Mode" to see the contents properly after downloading the same.
